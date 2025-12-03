@@ -14,6 +14,17 @@
   <a href="https://lllcf.github.io/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
 </div>
 
+<table>
+<tr><td>
+🤺 About Me
+
+<p>&emsp;&emsp;<strong>不知名算法工程师.</strong></p>
+<p>&emsp;&emsp;<strong>If you compress the data well enough, you have to understand the data.To predict the next token well, you have to understand the underlying reality that led to the creation of that token.</strong></p>
+<p>&emsp;&emsp;🕑︎ Time Zone: China/Wuhan</p>
+
+</table>
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/LLLcf/LLLcf/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/LLLcf/LLLcf/profile-snake-contrib/github-contribution-grid-snake.svg" />
@@ -25,16 +36,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
-
-<table>
-<tr><td>
-🤺 About Me
-
-<p>&emsp;&emsp;<strong>不知名算法工程师.</strong></p>
-<p>&emsp;&emsp;<strong>If you compress the data well enough, you have to understand the data.To predict the next token well, you have to understand the underlying reality that led to the creation of that token.</strong></p>
-<p>&emsp;&emsp;🕑︎ Time Zone: China/Wuhan</p>
-
-</table>
 
 <table>
   <tr>
