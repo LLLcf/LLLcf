@@ -32,8 +32,9 @@
 
 <p>&emsp;&emsp;不知名算法工程师</p>
 <p>&emsp;&emsp;LLM Is All You Need</p>
+<p>&emsp;&emsp;If you compress the data well enough, you have to understand the data.To predict the next token well, you have to understand the underlying reality that led to the creation of that token.</p>
+<p>&emsp;&emsp;🕑︎ Time Zone: China/Wuhan</p>
 
-🕑︎ Time Zone: China/Wuhan
 </table>
 
 <table>
