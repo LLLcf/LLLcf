@@ -14,14 +14,13 @@
   <a href="https://lllcf.github.io/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
 </div>
 
-
-<tr><td>
+<table>
 🤺 About Me
 
 <p>&emsp;&emsp;<strong>不知名算法工程师.</strong></p>
 <p>&emsp;&emsp;<strong>If you compress the data well enough, you have to understand the data.To predict the next token well, you have to understand the underlying reality that led to the creation of that token.</strong></p>
 <p>&emsp;&emsp;🕑︎ Time Zone: China/Wuhan</p>
-
+</table>
 
 
 
