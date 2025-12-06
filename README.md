@@ -11,7 +11,7 @@
   <a href="https://lllcf.github.io/">
     <img src="https://img.shields.io/badge/Blog-个人博客-8c36db?style=for-the-badge&logo=hugo&logoColor=white" />
   </a>&nbsp;
-  <a href="15002795682@163.com">
+  <a href="mailto:15002795682@163.com">
     <img src="https://img.shields.io/badge/Email-联系我-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
