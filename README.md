@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-- 🌱 I’m currently learning **Large Language Models (LLMs) & System Optimization**
+- 🌱 I’m currently learning ** NLP & LLMs**
 - ⚡ Fun fact: **Unknown Algorithm Engineer (不知名算法工程师)**
 
 ## 📊 Engineering Metrics
