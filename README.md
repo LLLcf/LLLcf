@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-- 🌱 I’m currently learning **NLP & LLMs**
+- 🌱 I’m currently learning **NLP, LLMs, MLLMs & Agents **
 - ⚡ Fun fact: **不知名算法工程师**
 
 ## 📊 Engineering Metrics
