@@ -34,10 +34,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LLLcf&theme=dracula&hide_border=true" alt="streak stats" />
 
   <br/>
-  
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=LLLcf&theme=dracula&no-frame=true&column=7&margin-w=15&margin-h=15" alt="trophy" />
-  </a>
 
 </div>
 
