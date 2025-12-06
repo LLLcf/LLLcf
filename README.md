@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=import+torch;model.train();To+predict+the+next+token...;Hello%2C+World!&center=true&size=27&color=F7F7F7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=model.train();Hello%2C+World!&center=true&size=27&color=F7F7F7)](https://git.io/typing-svg)
 
 <h3>
   "If you compress the data well enough, you have to understand the data."
@@ -29,9 +29,6 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=LLLcf&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LLLcf&layout=compact&theme=dracula&hide_border=true" height="150" alt="languages graph" />
-  
   <br/>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LLLcf&theme=dracula&hide_border=true" alt="streak stats" />
