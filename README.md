@@ -22,8 +22,8 @@
 
 ## 👨‍💻 About Me
 
-- 🌱 I’m currently learning ** NLP & LLMs**
-- ⚡ Fun fact: **Unknown Algorithm Engineer (不知名算法工程师)**
+- 🌱 I’m currently learning **NLP & LLMs**
+- ⚡ Fun fact: **不知名算法工程师**
 
 ## 📊 Engineering Metrics
 
