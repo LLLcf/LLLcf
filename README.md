@@ -5,7 +5,7 @@
 <br/>
 
 <h3>
-  “If you compress the data well enough, you have to understand the data.”
+  <i>“If you compress the data well enough, you have to understand the data.”</i>
 </h3>
 <sub>
   <i>To predict the next token well, you have to understand the underlying reality that led to the creation of that token.</i>
