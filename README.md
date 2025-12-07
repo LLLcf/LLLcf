@@ -2,10 +2,16 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=model.train();Hello%2C+World!&center=true&size=27&color=F7F7F7)](https://git.io/typing-svg)
 
+<br/>
+
 <h3>
-  "If you compress the data well enough, you have to understand the data."
+  “If you compress the data well enough, you have to understand the data.”
 </h3>
-<p>To predict the next token well, you have to understand the underlying reality that led to the creation of that token.</p>
+<sub>
+  <i>To predict the next token well, you have to understand the underlying reality that led to the creation of that token.</i>
+</sub>
+
+<br/><br/>
 
 <div>
   <a href="https://lllcf.github.io/">
