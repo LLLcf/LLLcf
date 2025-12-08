@@ -35,12 +35,6 @@
 
 <div align="center">
 
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LLLcf&theme=dracula&hide_border=true" alt="streak stats" />
-
-  <br/>
-
 </div>
 
 <br/>
